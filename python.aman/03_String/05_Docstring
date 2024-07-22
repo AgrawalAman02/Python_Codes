@@ -1,0 +1,9 @@
+def square(n):
+    '''Takes in a no. n , returns the square of n'''    
+    # this is not hte comment . it is a docstring . pyrhon gave it a special preference
+    print(n**2)
+square(5)   # print the n**2 means sq. of 5
+print(square.__doc__)  # print the doc of the function-- it tells that the function i for what : 
+# learn that on changing the cooment the output dint change but in case of docstring it will
+# docstring is right below the function name or class name 
+# if not then it is comment
