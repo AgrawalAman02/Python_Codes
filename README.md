@@ -1,2 +1,2 @@
 # Python_Codes
-This repo contain Python codes
+This repository contain Python codes
